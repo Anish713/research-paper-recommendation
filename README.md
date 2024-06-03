@@ -25,7 +25,7 @@ Subject Area Prediction
 
 ## Run the model
 To run the model, 
-Create a folder named models and download the model from the following link:
+Create a folder named models and download the sample model from the following link or train yourself with training codes provided:
 1. [In Kaggle](https://www.kaggle.com/datasets/noorsaeed/research-paper-all-trained-saved-files)
 
 Then, you can use the following command:
