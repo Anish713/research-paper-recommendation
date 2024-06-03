@@ -23,3 +23,12 @@ Recommending top K papers.
 The deep learning model improved recommendations, yielding an accuracy of 99%.
 Subject Area Prediction
 
+## Run the model
+To run the model, 
+Create a folder named models and download the model from the following link:
+1. [In Kaggle](https://www.kaggle.com/datasets/noorsaeed/research-paper-all-trained-saved-files)
+
+Then, you can use the following command:
+```bash
+streamlit run app.py
+``` 
